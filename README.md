@@ -55,14 +55,14 @@ To automatically update the databases, simply set execution permissions to the `
 
 If you want to manually update your databases, go to the following web site and download these files:
 
-* https://khulnasoft-lab.github.io/vulnscan/download/cve.csv
-* https://khulnasoft-lab.github.io/vulnscan/download/exploitdb.csv
-* https://khulnasoft-lab.github.io/vulnscan/download/openvas.csv
-* https://khulnasoft-lab.github.io/vulnscan/download/osvdb.csv
-* https://khulnasoft-lab.github.io/vulnscan/download/scipvuldb.csv
-* https://khulnasoft-lab.github.io/vulnscan/download/securityfocus.csv
-* https://khulnasoft-lab.github.io/vulnscan/download/securitytracker.csv
-* https://khulnasoft-lab.github.io/vulnscan/download/xforce.csv
+* https://khulnasoft-lab.github.io/vulnscan/cve.csv
+* https://khulnasoft-lab.github.io/vulnscan/exploitdb.csv
+* https://khulnasoft-lab.github.io/vulnscan/openvas.csv
+* https://khulnasoft-lab.github.io/vulnscan/osvdb.csv
+* https://khulnasoft-lab.github.io/vulnscan/scipvuldb.csv
+* https://khulnasoft-lab.github.io/vulnscan/securityfocus.csv
+* https://khulnasoft-lab.github.io/vulnscan/securitytracker.csv
+* https://khulnasoft-lab.github.io/vulnscan/xforce.csv
 
 Copy the files into your vulnscan folder:
 
