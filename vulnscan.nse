@@ -61,14 +61,14 @@ vulnerability databases up-to-date.
 If you want to update your databases, go to the following web site and
 download these files:
 
-   https://khulnasoft-lab.github.io/vulnscan/cve.csv
-   https://khulnasoft-lab.github.io/vulnscan/exploitdb.csv
-   https://khulnasoft-lab.github.io/vulnscan/openvas.csv
-   https://khulnasoft-lab.github.io/vulnscan/osvdb.csv
-   https://khulnasoft-lab.github.io/vulnscan/scipvuldb.csv
-   https://khulnasoft-lab.github.io/vulnscan/securityfocus.csv
-   https://khulnasoft-lab.github.io/vulnscan/securitytracker.csv
-   https://khulnasoft-lab.github.io/vulnscan/xforce.csv
+   https://raw.githubusercontent.com/khulnasoft-lab/vulnscan/mastercve.csv
+   https://raw.githubusercontent.com/khulnasoft-lab/vulnscan/masterexploitdb.csv
+   https://raw.githubusercontent.com/khulnasoft-lab/vulnscan/masteropenvas.csv
+   https://raw.githubusercontent.com/khulnasoft-lab/vulnscan/masterosvdb.csv
+   https://raw.githubusercontent.com/khulnasoft-lab/vulnscan/masterscipvuldb.csv
+   https://raw.githubusercontent.com/khulnasoft-lab/vulnscan/mastersecurityfocus.csv
+   https://raw.githubusercontent.com/khulnasoft-lab/vulnscan/mastersecuritytracker.csv
+   https://raw.githubusercontent.com/khulnasoft-lab/vulnscan/masterxforce.csv
 
 Copy the files into your vulnscan folder:
 
